@@ -1,0 +1,1 @@
+/home/killian/f1tenth_project/devel/.private/f1tenth_simulator/share/roseus/ros/f1tenth_simulator/manifest.l
