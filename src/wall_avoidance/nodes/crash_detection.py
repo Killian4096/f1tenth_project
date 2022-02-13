@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from time import time
-from turtle import distance
-from xml.etree.ElementTree import TreeBuilder
+#from turtle import distance
+#from xml.etree.ElementTree import TreeBuilder
 import rospy
 import std_msgs.msg
 from std_msgs.msg import Header
