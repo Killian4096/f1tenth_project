@@ -79,7 +79,7 @@ random_walk_EXTERNAL_OBJECTS =
 
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/random_walk: CMakeFiles/random_walk.dir/node/random_walk.cpp.o
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/random_walk: CMakeFiles/random_walk.dir/build.make
-/home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/random_walk: libf1tenth_simulator.a
+/home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/random_walk: libf1tenth_simulator.so
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/random_walk: /opt/ros/noetic/lib/libroslib.so
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/random_walk: /opt/ros/noetic/lib/librospack.so
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/random_walk: /usr/lib/x86_64-linux-gnu/libpython3.8.so

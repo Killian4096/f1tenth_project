@@ -8,6 +8,8 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/killian/f1tenth_project/devel/.private/wall_avoidance:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/killian/f1tenth_project/devel/.private/wall_avoidance/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/killian/f1tenth_project/devel/.private/wall_avoidance/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/killian/f1tenth_project/build/wall_avoidance'
 export ROSLISP_PACKAGE_DIRECTORIES="/home/killian/f1tenth_project/devel/.private/wall_avoidance/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/killian/f1tenth_project/src/wall_avoidance:$ROS_PACKAGE_PATH"

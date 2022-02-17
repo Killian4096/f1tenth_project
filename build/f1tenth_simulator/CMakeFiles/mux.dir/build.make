@@ -79,7 +79,7 @@ mux_EXTERNAL_OBJECTS =
 
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/mux: CMakeFiles/mux.dir/node/mux.cpp.o
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/mux: CMakeFiles/mux.dir/build.make
-/home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/mux: libf1tenth_simulator.a
+/home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/mux: libf1tenth_simulator.so
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/mux: /opt/ros/noetic/lib/libroslib.so
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/mux: /opt/ros/noetic/lib/librospack.so
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/mux: /usr/lib/x86_64-linux-gnu/libpython3.8.so

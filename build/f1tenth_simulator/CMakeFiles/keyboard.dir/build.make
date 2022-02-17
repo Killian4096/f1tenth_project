@@ -79,7 +79,7 @@ keyboard_EXTERNAL_OBJECTS =
 
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/keyboard: CMakeFiles/keyboard.dir/node/keyboard.cpp.o
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/keyboard: CMakeFiles/keyboard.dir/build.make
-/home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/keyboard: libf1tenth_simulator.a
+/home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/keyboard: libf1tenth_simulator.so
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/keyboard: /opt/ros/noetic/lib/libroslib.so
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/keyboard: /opt/ros/noetic/lib/librospack.so
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/keyboard: /usr/lib/x86_64-linux-gnu/libpython3.8.so

@@ -79,7 +79,7 @@ behavior_controller_EXTERNAL_OBJECTS =
 
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/behavior_controller: CMakeFiles/behavior_controller.dir/node/behavior_controller.cpp.o
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/behavior_controller: CMakeFiles/behavior_controller.dir/build.make
-/home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/behavior_controller: libf1tenth_simulator.a
+/home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/behavior_controller: libf1tenth_simulator.so
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/behavior_controller: /opt/ros/noetic/lib/libroslib.so
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/behavior_controller: /opt/ros/noetic/lib/librospack.so
 /home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/f1tenth_simulator/behavior_controller: /usr/lib/x86_64-linux-gnu/libpython3.8.so
