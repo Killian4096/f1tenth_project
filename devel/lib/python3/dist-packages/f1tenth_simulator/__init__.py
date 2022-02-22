@@ -1,1 +1,0 @@
-/home/killian/f1tenth_project/devel/.private/f1tenth_simulator/lib/python3/dist-packages/f1tenth_simulator/__init__.py

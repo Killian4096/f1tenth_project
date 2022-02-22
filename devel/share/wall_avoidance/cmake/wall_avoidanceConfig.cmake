@@ -1,1 +1,0 @@
-/home/killian/f1tenth_project/devel/.private/wall_avoidance/share/wall_avoidance/cmake/wall_avoidanceConfig.cmake

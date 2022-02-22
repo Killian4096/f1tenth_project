@@ -1,7 +1,0 @@
-[01m[K/home/killian/f1tenth_project/src/f1tenth_simulator/src/st_kinematics.cpp:[m[K In static member function ‘[01m[Kstatic racecar_simulator::CarState racecar_simulator::STKinematics::update_k(racecar_simulator::CarState, double, double, racecar_simulator::CarParams, double)[m[K’:
-[01m[K/home/killian/f1tenth_project/src/f1tenth_simulator/src/st_kinematics.cpp:102:12:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Ktheta_double_dot[m[K’ [[01;35m[K-Wunused-variable[m[K]
-  102 |     double [01;35m[Ktheta_double_dot[m[K = accel / p.wheelbase * std::tan(start.steer_angle) +
-      |            [01;35m[K^~~~~~~~~~~~~~~~[m[K
-[01m[K/home/killian/f1tenth_project/src/f1tenth_simulator/src/st_kinematics.cpp:104:12:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kslip_angle_dot[m[K’ [[01;35m[K-Wunused-variable[m[K]
-  104 |     double [01;35m[Kslip_angle_dot[m[K = 0;
-      |            [01;35m[K^~~~~~~~~~~~~~[m[K

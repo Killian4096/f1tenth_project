@@ -1,6 +1,0 @@
-devel_space: /home/killian/f1tenth_project/devel
-install: false
-install_space: /home/killian/f1tenth_project/install
-profile: default
-source_space: /home/killian/f1tenth_project/src
-workspace: /home/killian/f1tenth_project
